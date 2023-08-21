@@ -1,2 +1,2 @@
 print(['Ridwan', 2 , 'Ridwan'])
-{'Ridwan', 'a', 'Ridwan'}
+print({'Ridwan', 'a', 'Ridwan'})
