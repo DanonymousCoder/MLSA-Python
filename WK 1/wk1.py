@@ -1,1 +1,1 @@
-['Ridwan', 2 , 'Ridwan']
+print(['Ridwan', 2 , 'Ridwan'])
